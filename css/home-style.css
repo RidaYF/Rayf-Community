@@ -888,7 +888,7 @@ hr {
 
             /* -----------PRE-LOADER--------- */
 
-/* #main-content {
+#main-content {
     visibility: hidden;
     opacity: 0;
     transition: opacity 0.7s ease-in-out,top 0.3s ease-in-out; 
@@ -930,7 +930,7 @@ hr {
     font-size: larger;
     font-family: "Montserrat", serif;
     animation: preloadAnimation 4s forwards ;
-} */
+} 
 
 /* -------------------------------------------------- */
 @keyframes preloadAnimation{
