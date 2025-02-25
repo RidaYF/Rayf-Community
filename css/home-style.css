@@ -771,7 +771,7 @@ hr {
   }
 /* =============== */
 .footer{
-    height: 100vh;
+    /* height: 100vh; */
     background-image: linear-gradient(to bottom,black,rgb(118, 117, 117));
 }
 
@@ -852,7 +852,8 @@ hr {
 }
 
 .footer {
-    position: relative; /* Ensures footer stacking context */
+    position: relative; 
+    padding: 21px;
 }
 
 
