@@ -676,6 +676,7 @@ hr {
 /* SCROLL FOOTER  */
 .footer-section {
     display: grid;
+    height: 25vh;
     place-content: center;
     font-family: system-ui;
     font-size: 1.125rem;
@@ -852,6 +853,7 @@ hr {
 }
 
 .footer {
+    margin-top: 50px;
     position: relative; 
     padding: 21px;
 }
